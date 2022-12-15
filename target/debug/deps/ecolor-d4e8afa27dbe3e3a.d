@@ -1,0 +1,11 @@
+C:\Users\Physi\WebstormProjects\untitled1d\music-player\target\debug\deps\ecolor-d4e8afa27dbe3e3a.rmeta: C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\Physi\WebstormProjects\untitled1d\music-player\target\debug\deps\libecolor-d4e8afa27dbe3e3a.rlib: C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\Physi\WebstormProjects\untitled1d\music-player\target\debug\deps\ecolor-d4e8afa27dbe3e3a.d: C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs:
+C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs:
+C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs:
+C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs:
+C:\Users\Physi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs:

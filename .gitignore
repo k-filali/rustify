@@ -1,0 +1,6 @@
+
+/rustify/target
+**/*.rs.bk
+*.swp
+*.swo
+*.json
